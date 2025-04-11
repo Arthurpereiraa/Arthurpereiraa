@@ -5,7 +5,7 @@
 
 <!-- Frase central -->
 <p align="center">
-  <strong style="color:#0E5E6F; font-size:20px;">Tenho <span style="color:#00BFFF">25</span> anos</strong>
+  <strong style="color:#0E5E6F; font-size:20px;">Tenho <span style="color:#00BFFF">18</span> anos</strong>
 </p>
 
 <!-- Contador de visitas -->
@@ -15,13 +15,10 @@
 
 <!-- Ícones sociais -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/seu-instagram" target="_blank">
+  <a href="https://www.instagram.com/Thur.dn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="arthurpsf8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -61,8 +58,8 @@ Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolve
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpereira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpereiraa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
