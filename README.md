@@ -1,42 +1,19 @@
-<!-- Banner 1: Boas-vindas -->
+<!-- Banner animado com frases -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E5E6F&height=150&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff" />
-</p>
-
-<!-- Banner 2: Curso -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header&text=Estudante%20de%20Desenvolvimento%20de%20Sistemas%20no%20SENAI&fontSize=20&fontColor=ffffff" />
-</p>
-
-<!-- Banner 3: Paixão -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=100&section=header&text=Apaixonado%20por%20tecnologia%20e%20inovação!&fontSize=20&fontColor=ffffff" />
-</p>
-
-<!-- Banner 4: Evolução -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=header&text=Em%20constante%20evolução%20como%20programador&fontSize=20&fontColor=ffffff" />
-</p>
-
-<!-- Idade -->
-<p align="center">
-  <strong style="color:#0E5E6F; font-size:20px;">Tenho <span style="color:#00BFFF">18</span> anos</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Arthur+Pereira+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;18+anos+%7C+Estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o+%F0%9F%9A%80;Em+constante+evolu%C3%A7%C3%A3o+como+programador+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- Contador de visitas -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurpereira&label=Visualizações&color=0E5E6F&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=arthurpereiraa&label=Visualiza%C3%A7%C3%B5es&color=0E5E6F&style=flat" alt="profile-views" />
 </p>
 
 <!-- Ícones sociais -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/seu-instagram" target="_blank">
+  <a href="https://www.instagram.com/Thur.dn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:arthurpsf8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -76,8 +53,8 @@ Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolve
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpereira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpereiraa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereiraa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
