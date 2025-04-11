@@ -54,9 +54,14 @@ Fique à vontade para explorar, dar feedback e colaborar!
 
 ## 📊 Estatísticas GitHub
 
+<!-- Linguagens -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpereiraa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurpereiraa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
 </p>
 
 ---
