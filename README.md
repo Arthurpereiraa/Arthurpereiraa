@@ -1,6 +1,6 @@
 <!-- Banner animado com frases -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos+e+sou+estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+programa%C3%A7%C3%A3o;Em+constante+evolu%C3%A7%C3%A3o+como+programador" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos;Sou+estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Apaixonado+por+tecnologia+e+programa%C3%A7%C3%A3o;Em+constante+evolu%C3%A7%C3%A3o+como+programador" alt="Typing SVG" />
 </p>
 
 <!-- Contador de visitas -->
