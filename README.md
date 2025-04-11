@@ -1,6 +1,6 @@
 <!-- Banner animado com frases -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Arthur+Pereira+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;18+anos+%7C+Estudante+de+Desenvolvimento+de+Sistemas+no+SENAI;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o+%F0%9F%9A%80;Em+constante+evolu%C3%A7%C3%A3o+como+programador+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos+e+sou+estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+programa%C3%A7%C3%A3o;Em+constante+evolu%C3%A7%C3%A3o+como+programador" alt="Typing SVG" />
 </p>
 
 <!-- Contador de visitas -->
@@ -20,9 +20,10 @@
 
 ---
 
-# 👋 Olá! Bem-vindo ao meu perfil!
+# Olá! Bem-vindo ao meu perfil
 
-Eu sou **Arthur Pereira**, um estudante apaixonado por tecnologia! Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI Suíço-Brasileira**. 🚀
+Eu sou **Arthur Pereira**, tenho **18 anos** e sou um estudante apaixonado por tecnologia!  
+Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI Suíço-Brasileira**.
 
 ## 🛠️ Tecnologias e conhecimentos que estou aprendendo
 Estou desenvolvendo minhas habilidades e aprendendo sobre:
@@ -46,15 +47,16 @@ Estou desenvolvendo minhas habilidades e aprendendo sobre:
 - Explorando diferentes áreas do desenvolvimento para me tornar um programador mais completo.
 
 ## 🌱 Projetos
-Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolvendo durante o curso. Fique à vontade para explorar, dar feedback e colaborar!
+Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolvendo durante o curso.  
+Fique à vontade para explorar, dar feedback e colaborar!
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpereiraa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereiraa&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpereiraa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,4 +64,4 @@ Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolve
 💬 **Vamos nos conectar?**  
 Qualquer dúvida, sugestão ou ideia, é só enviar uma mensagem!
 
-Obrigado por visitar meu perfil! 😄
+Obrigado por visitar meu perfil!
