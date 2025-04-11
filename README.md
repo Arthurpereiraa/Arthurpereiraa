@@ -8,6 +8,10 @@
   <strong style="color:#0E5E6F; font-size:20px;">Tenho <span style="color:#00BFFF">18</span> anos</strong>
 </p>
 
+<p align="center">
+  <strong style="color:#0E5E6F; font-size:20px;">Estudante<span style="color:#00BFFF">de</span>Programação</strong>
+</p>
+
 ---
 
 # 👋 Olá! Bem-vindo ao meu perfil!
