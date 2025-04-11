@@ -4,7 +4,7 @@ Eu sou **Arthur Pereira**, um estudante apaixonado por tecnologia! Atualmente, e
 
 ## 🛠️ Tecnologias e conhecimentos que estou aprendendo
 Estou desenvolvendo minhas habilidades e aprendendo sobre:
-- **Java** ☕
+- **Java** 
 - **Python**
 - **React** e **React Native**
 - **JavaScript**
