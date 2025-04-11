@@ -5,6 +5,7 @@ Eu sou **Arthur Pereira**, um estudante apaixonado por tecnologia! Atualmente, e
 ## 🛠️ Tecnologias e conhecimentos que estou aprendendo
 Estou desenvolvendo minhas habilidades e aprendendo sobre:
 - **Java** ☕
+- **Python**
 - **React** e **React Native**
 - **JavaScript**
 - **Spring Boot**
@@ -15,6 +16,7 @@ Estou desenvolvendo minhas habilidades e aprendendo sobre:
 - **Sistemas Operacionais**
 - **Redes**
 - **Levantamento de Requisitos**
+- **Computação em Nuvem**, incluindo **Google Cloud** e **Azure**
 
 ## 🔍 Sobre mim
 - Sempre em busca de novos conhecimentos e desafios no mundo da programação.
