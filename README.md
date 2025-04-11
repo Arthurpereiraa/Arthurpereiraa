@@ -2,7 +2,30 @@
 
 Eu sou **Arthur Pereira**, um estudante apaixonado por tecnologia! Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI Suíço-Brasileira**. 🚀
 
-## 🛠️ Tecnologias que estudo e utilizo
-Estou aprendendo e desenvolvendo projetos utilizando as seguintes linguagens e tecnologias:
-- **Java** ☕ (minha principal
-
+## 🛠️ Tecnologias e conhecimentos que estou aprendendo
+Estou desenvolvendo minhas habilidades e aprendendo sobre:
+- **Java** ☕
+- **React** e **React Native**
+- **JavaScript**
+- **Spring Boot**
+- **JSP**
+- **HTML** e **CSS**
+- **Banco de Dados**
+- **Lógica de Programação**
+- **Sistemas Operacionais**
+- **Redes**
+- **Levantamento de Requisitos**
+
+## 🔍 Sobre mim
+- Sempre em busca de novos conhecimentos e desafios no mundo da programação.
+- Focado em construir soluções que fazem a diferença.
+- Explorando diferentes áreas do desenvolvimento para me tornar um programador mais completo.
+
+## 🌱 Projetos
+Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolvendo durante o curso. Fique à vontade para explorar, dar feedback e colaborar!
+
+---
+
+💬 Vamos nos conectar? Qualquer dúvida, sugestão ou ideia, é só enviar uma mensagem!
+
+Obrigado por visitar meu perfil! 😄
