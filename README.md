@@ -29,7 +29,7 @@ Eu sou **Arthur Pereira**, um estudante de **18 anos** apaixonado por tecnologia
 Estou sempre em busca de novos desafios e conhecimentos, expandindo minha experiência com as seguintes tecnologias:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,js,spring,html,css,mysql,postgresql,firebase,aws,gcp,azure,docker,git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,js,spring,html,css,mysql,postgresql,firebase,aws,gcp,azure,docker,git,github,vscode,figma" />
 </p>
 
 ---
