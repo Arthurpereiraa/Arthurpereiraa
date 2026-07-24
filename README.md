@@ -49,14 +49,6 @@ Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolve
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereiraa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-</p>
-
----
-
 ## 📬 Vamos nos conectar!
 
 Qualquer dúvida, sugestão, ideia ou apenas para bater um papo, é só me enviar uma mensagem!
