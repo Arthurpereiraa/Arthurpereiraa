@@ -22,7 +22,7 @@
 
 # Olá! 👋 Bem-vindo ao meu perfil!
 
-Eu sou **Arthur Pereira**, um estudante de **18 anos** apaixonado por tecnologia e **desenvolvimento de sistemas**. Atualmente, estou focado em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas** no **SENAI Suíço-Brasileira**.
+Eu sou **Arthur Pereira**, um estudante de **19 anos** apaixonado por tecnologia e **desenvolvimento de sistemas**. Atualmente, estou focado em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas** no **SENAI Suíço-Brasileira**.
 
 ## 💻 Minha Stack Tecnológica & Aprendizados
 
