@@ -1,56 +1,78 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C86,100:1B263B&height=180&section=header&text=Arthur%20Pereira&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Back-end&descSize=18&descAlignY=58" width="100%" alt="Arthur Pereira: Desenvolvedor Back-end" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Tenho+18+anos;Aluno+de+DS+no+SENAI;Buscando+evoluir+como+programador" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1500&color=0E7C86&center=true&vCenter=true&width=560&lines=APIs+REST+e+arquitetura+de+back-end;Java+%C2%B7+Spring+%C2%B7+Node.js+%C2%B7+Python;Bancos+de+dados%2C+cloud+e+automa%C3%A7%C3%A3o;C%C3%B3digo+limpo%2C+testado+e+documentado" alt="APIs REST, Java, Spring, Node.js, Python" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurpereiraa&label=Visualiza%C3%A7%C3%B5es&color=0E5E6F&style=flat" alt="profile-views" />
+  <a href="https://www.linkedin.com/in/arthur-fernandes-0b1b17377" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arthurpsf8@gmail.com"><img src="https://img.shields.io/badge/E--mail-1B263B?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+
+### 👨‍💻 Sobre mim
+
+Desenvolvedor focado em **back-end**: gosto de projetar APIs, modelar dados e construir sistemas que sejam simples de manter e fáceis de evoluir.
+
+- 🔭 Construindo APIs e integrações
+- 🧪 Testes, CI e documentação desde o primeiro commit
+- 🤖 Explorando IA aplicada ao desenvolvimento
+- 🌱 Estudando arquitetura de software e sistemas distribuídos
+
+</td>
+    <td width="45%" valign="top">
+
+### ⚡ Em resumo
+
+```yaml
+foco:       back-end
+linguagens: [Java, TypeScript, Python]
+frameworks: [Spring, Node.js, React]
+dados:      [PostgreSQL, MySQL]
+infra:      [Docker, AWS, GitHub Actions]
+```
+
+</td>
+  </tr>
+</table>
+
+<br />
+
+<h3 align="center">🛠️ Tecnologias</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,python,js,react&theme=dark" alt="Java, Spring, TypeScript, Node.js, Python, JavaScript, React" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,docker,aws,gcp,githubactions&theme=dark" alt="PostgreSQL, MySQL, Firebase, Docker, AWS, GCP, GitHub Actions" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" alt="Git, GitHub, VS Code, IntelliJ, Postman, Figma" />
+</p>
+
+<br />
+
+<h3 align="center">📊 Atividade no GitHub</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arthurpereiraa&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=0E7C86&icon_color=0E7C86&text_color=C9D1D9&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurpereiraa&layout=compact&hide_border=true&bg_color=0D1117&title_color=0E7C86&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-fernandes-0b1b17377" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/thur.dn" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:arthurpsf8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurpereiraa&bg_color=0D1117&color=C9D1D9&line=0E7C86&point=FFFFFF&area=true&area_color=0E7C86&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="95%" alt="Gráfico de contribuições" />
 </p>
 
----
+<br />
 
-# Olá! 👋 Bem-vindo ao meu perfil!
-
-Eu sou **Arthur Pereira**, um estudante de **19 anos** apaixonado por tecnologia e **desenvolvimento de sistemas**. Atualmente, estou focado em aprimorar minhas habilidades no **Técnico em Desenvolvimento de Sistemas** no **SENAI Suíço-Brasileira**.
-
-## 💻 Minha Stack Tecnológica & Aprendizados
-
-Estou sempre em busca de novos desafios e conhecimentos, expandindo minha experiência com as seguintes tecnologias:
+<h3 align="center">📬 Contato</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,js,spring,html,css,mysql,postgresql,firebase,aws,gcp,azure,docker,git,github,vscode,figma" />
+  Aberto a conversar sobre oportunidades, projetos e tecnologia.<br />
+  Me chame no <a href="https://www.linkedin.com/in/arthur-fernandes-0b1b17377">LinkedIn</a> ou por <a href="mailto:arthurpsf8@gmail.com">e-mail</a>.
 </p>
 
----
-
-## 🚀 Sobre Mim
-
-- Sempre em busca de **novos conhecimentos e desafios** no mundo da programação.
-- Focado em **construir soluções** que realmente fazem a diferença.
-- Explorando **diferentes áreas do desenvolvimento** para me tornar um programador mais completo e versátil.
-- Forte interesse em **desenvolvimento back-end** e arquitetura de software.
-
----
-
-## ✨ Projetos em Destaque
-
-Você pode encontrar aqui no meu perfil alguns dos projetos que estou desenvolvendo durante o curso e em meu tempo livre. Sinta-se à vontade para explorar, dar feedback e colaborar!
-
----
-
-## 📬 Vamos nos conectar!
-
-Qualquer dúvida, sugestão, ideia ou apenas para bater um papo, é só me enviar uma mensagem!
-
-Obrigado por visitar meu perfil! 😊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,100:0E7C86&height=110&section=footer" width="100%" alt="" />
