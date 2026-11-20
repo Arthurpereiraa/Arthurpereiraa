@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-fernandes-0b1b17377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/arthur-pereiraa?utm_source=share_via&utm_content=profile&utm_medium=member_ios<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arthurpsf8@gmail.com"><img src="https://img.shields.io/badge/E--mail-16A34A?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <img src="https://img.shields.io/badge/Brasil-0D1117?style=flat-square&logo=googlemaps&logoColor=22C55E" alt="Brasil" />
 </p>
